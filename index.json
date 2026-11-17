@@ -1,0 +1,33 @@
+{
+  "format": 1,
+  "name": "Princeblueblood's Themes",
+  "description": "Themes for Valenced.",
+  "plugins": {
+    "Tokyo.Nights": {
+      "name": "Tokyo Nights",
+      "description": "Colorful Vaporwave Inspired Theme. Now Featuring Kuromi",
+      "author": "LuckyJinx13 reimagined by Princeblueblood <131929165292240896>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://USERNAME.github.io/REPO/pool/Tokyo.Nights@1.0.0.zip",
+          "sha256": "6a1edffe316a7a42927db43d55b67507527322c604e1f9f25be1bf92e5c95ddc",
+          "size": 1424870,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    }
+  }
+}
