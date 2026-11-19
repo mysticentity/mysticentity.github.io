@@ -11,15 +11,39 @@
         "latest": "1.1.2"
       },
       "versions": {
-        "1.0.0": {
-          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.0.0.zip",
-          "sha256": "6a1edffe316a7a42927db43d55b67507527322c604e1f9f25be1bf92e5c95ddc",
-          "size": 1424870,
+        "1.1.2": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.2.zip",
+          "sha256": "db84ee445ae7e6ecffa7f9402d5e178a6f2aef8598e64d3b06e0c167171920e5",
+          "size": 1424999,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
             },
-          "1.1.0": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.1": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.1.zip",
+          "sha256": "ba2cb9fd0ed34b1b74f2a551de14eba2910fca81bcd674688bd3ef4f33f6affe",
+          "size": 1424997,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.0": {
           "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.0.zip",
           "sha256": "c1185bd6895dc889dc1e111843046d162cef2b2757910f27edefda79ecc51cf5",
           "size": 1424938,
@@ -27,18 +51,18 @@
             "valenced.api": {
               "version": ">=1 <2"
             },
-            "1.1.1": {
-          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.1.zip",
-          "sha256": "db84ee445ae7e6ecffa7f9402d5e178a6f2aef8598e64d3b06e0c167171920e5",
-          "size": 1425014,
-          "dependencies": {
-            "valenced.api": {
-              "version": ">=1 <2"
+            "discord": {
+              "version": "*"
             },
-        "1.1.2": {
-          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.2.zip",
-          "sha256": "db84ee445ae7e6ecffa7f9402d5e178a6f2aef8598e64d3b06e0c167171920e5",
-          "size": 1424999,
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.0": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.0.0.zip",
+          "sha256": "6a1edffe316a7a42927db43d55b67507527322c604e1f9f25be1bf92e5c95ddc",
+          "size": 1424870,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
