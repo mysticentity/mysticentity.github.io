@@ -135,8 +135,8 @@
       "versions": {
         "1.0.0": {
           "url": "https://mysticentity.github.io/Pool/DosTerminal.Green@1.0.0.zip",
-          "sha256": "683d95bcf10136072199f6f76ca80b22a09ce8b2f056e5fd1e8f7d9679fc188c",
-          "size": 41943,
+          "sha256": "77e9667a430a0fb0f49a551729f7ccd091d413b4c10935d77975ab200a609cda",
+          "size": 5270,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
