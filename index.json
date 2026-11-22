@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "name": "Princeblueblood's Themes",
+  "description": "Themes for Valenced.",
+  "plugins": {
+    "Tokyo.Nights": {
+      "name": "Tokyo Nights",
+      "description": "Colorful Vaporwave Inspired Theme. Now Featuring Kuromi",
+      "author": "LuckyJinx13 reimagined by Princeblueblood <131929165292240896>",
+      "channels": {
+        "latest": "1.1.5"
+      },
+      "versions": {
+        "1.1.5": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.5.zip",
+          "sha256": "9db736021ea66302065fb8aa82a394785cf9b478d1eb1d7b2cbe18900f3682cb",
+          "size": 1425128,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.4": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.4.zip",
+          "sha256": "7c74c95226f459ab53d7ff2bbbe22c41a200a47cd436fdabeb373ccedc512fc1",
+          "size": 1425068,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.3": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.3.zip",
+          "sha256": "a44966b850560e95414d9d648ac9db20e2eac1d41b9f5c39cd88427e5a5b0ff7",
+          "size": 1425000,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.2": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.2.zip",
+          "sha256": "db84ee445ae7e6ecffa7f9402d5e178a6f2aef8598e64d3b06e0c167171920e5",
+          "size": 1424999,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.1": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.1.zip",
+          "sha256": "ba2cb9fd0ed34b1b74f2a551de14eba2910fca81bcd674688bd3ef4f33f6affe",
+          "size": 1424997,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.0": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.0.zip",
+          "sha256": "c1185bd6895dc889dc1e111843046d162cef2b2757910f27edefda79ecc51cf5",
+          "size": 1424938,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.0": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.0.0.zip",
+          "sha256": "6a1edffe316a7a42927db43d55b67507527322c604e1f9f25be1bf92e5c95ddc",
+          "size": 1424870,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "DosTerminal.Green": {
+      "name": "Dos Terminal Green",
+      "description": "Modeled after old Dos Machines",
+      "author": "Princeblueblood <131929165292240896>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://mysticentity.github.io/Pool/DosTerminal.Green@1.0.0.zip",
+          "sha256": "3544fcc1baed99dabc50de54c8b93d8f380a066e9646f5989a9613f46da193e8",
+          "size": 42017,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    }
+  }
+}
