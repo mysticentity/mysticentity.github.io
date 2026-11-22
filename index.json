@@ -8,9 +8,25 @@
       "description": "Colorful Vaporwave Inspired Theme. Now Featuring Kuromi",
       "author": "LuckyJinx13 reimagined by Princeblueblood <131929165292240896>",
       "channels": {
-        "latest": "1.1.4"
+        "latest": "1.1.5"
       },
       "versions": {
+        "1.1.5": {
+          "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.5.zip",
+          "sha256": "4fa77e191fb52f9719331f4709b4e3cd4e9a386e235baa24262837fc57289c77",
+          "size": 1425127,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
         "1.1.4": {
           "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.4.zip",
           "sha256": "7c74c95226f459ab53d7ff2bbbe22c41a200a47cd436fdabeb373ccedc512fc1",
