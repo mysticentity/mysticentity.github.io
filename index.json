@@ -13,8 +13,8 @@
       "versions": {
         "1.1.5": {
           "url": "https://mysticentity.github.io/Pool/Tokyo.Nights@1.1.5.zip",
-          "sha256": "4fa77e191fb52f9719331f4709b4e3cd4e9a386e235baa24262837fc57289c77",
-          "size": 1425127,
+          "sha256": "60102aa63cde1a07f33c5233c1d532ffbd0003ce150aa43560e1af41325ba74d",
+          "size": 1425131,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
