@@ -133,6 +133,22 @@
         "latest": "1.0.0"
       },
       "versions": {
+        "1.0.1": {
+          "url": "https://mysticentity.github.io/Pool/DosTerminal.Green@1.0.1.zip",
+          "sha256": "311e2f2c9d0fa0ef2040e902850ff7f4038733e50497864fbad93859cec80cd8",
+          "size": 41957,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
         "1.0.0": {
           "url": "https://mysticentity.github.io/Pool/DosTerminal.Green@1.0.0.zip",
           "sha256": "57603845567e87a205dc664f1c6781c9662df64bdcb2b47b009ab1151a6e7171",
