@@ -130,7 +130,7 @@
       "description": "Modeled after old Dos Machines",
       "author": "Princeblueblood <131929165292240896>",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "1.0.1"
       },
       "versions": {
         "1.0.1": {
