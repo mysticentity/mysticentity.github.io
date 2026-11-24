@@ -156,12 +156,12 @@
       "description": "Modeled after old Dos Machines",
       "author": "Princeblueblood <131929165292240896>",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "1.0.1"
       },
       "versions": {
         "1.0.1": {
           "url": "https://mysticentity.github.io/Pool/DosTerminal.Amber@1.0.1.zip",
-          "sha256": "19d0ddf46a0095dd5ed04db765bc4ad20fae315b35346e791ab4fc4dcb3c7cc3",
+          "sha256": "6d93214f5d64a20ff3969302c33717610059b59d6f4bd10fcae0dc3aa3712f6b",
           "size": 41954,
           "dependencies": {
             "valenced.api": {
