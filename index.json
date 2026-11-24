@@ -161,8 +161,8 @@
       "versions": {
         "1.0.0": {
           "url": "https://mysticentity.github.io/Pool/DosTerminal.Amber@1.0.0.zip",
-          "sha256": "01e1e8ae6997f710673881e93b167a80d7c57e2b49236f55b223ccddc75c798f",
-          "size": 41944,
+          "sha256": "55b60ad904f8a006dbad461acca5c2b2067d1b42f7ca1e335249ccdd290894c8",
+          "size": 41943,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
