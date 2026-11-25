@@ -130,25 +130,9 @@
       "description": "Modeled after old Dos Machines",
       "author": "Princeblueblood <131929165292240896>",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.0"
       },
       "versions": {
-        "1.0.1": {
-          "url": "https://mysticentity.github.io/Pool/DosTerminal.Green@1.0.1.zip",
-          "sha256": "cb345ee835de04c938b2098c630f49ff978e2ef52ca33023d9e86498b924ef2d",
-          "size": 41956,
-          "dependencies": {
-            "valenced.api": {
-              "version": ">=1 <2"
-            },
-            "discord": {
-              "version": "*"
-            },
-            "valenced.api.themes": {
-              "version": "*"
-            }
-          }
-        },
         "1.0.0": {
           "url": "https://mysticentity.github.io/Pool/DosTerminal.Green@1.0.0.zip",
           "sha256": "57603845567e87a205dc664f1c6781c9662df64bdcb2b47b009ab1151a6e7171",
@@ -172,25 +156,9 @@
       "description": "Modeled after old Dos Machines",
       "author": "Princeblueblood <131929165292240896>",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.0"
       },
       "versions": {
-        "1.0.1": {
-          "url": "https://mysticentity.github.io/Pool/DosTerminal.Amber@1.0.1.zip",
-          "sha256": "501793282ad7e23aa5a5f8023983b74df4f061254c3ca952cc15a911f1bf99ba",
-          "size": 41974,
-          "dependencies": {
-            "valenced.api": {
-              "version": ">=1 <2"
-            },
-            "discord": {
-              "version": "*"
-            },
-            "valenced.api.themes": {
-              "version": "*"
-            }
-          }
-        },
         "1.0.0": {
           "url": "https://mysticentity.github.io/Pool/DosTerminal.Amber@1.0.0.zip",
           "sha256": "55b60ad904f8a006dbad461acca5c2b2067d1b42f7ca1e335249ccdd290894c8",
@@ -210,15 +178,15 @@
       }
     },
     "Amoled.Theme": {
-      "name": "Amoled Black",
-      "description": "An attempted recreation of Amoled black",
+      "name": "Amoled black Theme",
+      "description": "Attempted to recreate the Amoled black theme for valenced",
       "author": "Princeblueblood <131929165292240896>",
       "channels": {
         "latest": "1.0.0"
       },
       "versions": {
         "1.0.0": {
-          "url": "https://mysticentity.github.io/Pool/Amoled.Black@1.0.0.zip",
+          "url": "https://mysticentity.github.io/Pool/Amoled.Theme@1.0.0.zip",
           "sha256": "bc2ac210e592d0366d3c5a10ab8b058964a99f975fe87b124b8186174a3406e0",
           "size": 2455,
           "dependencies": {
@@ -234,3 +202,6 @@
           }
         }
       }
+    }
+  }
+}
