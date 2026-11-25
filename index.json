@@ -208,6 +208,30 @@
           }
         }
       }
-    }
+    },
+    "Amoled.Black": {
+      "name": "Amoled Black",
+      "description": "An attempted recreation of Amoled black",
+      "author": "Princeblueblood <131929165292240896>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://mysticentity.github.io/Pool/Amoled.Black@1.0.0.zip",
+          "sha256": "bc2ac210e592d0366d3c5a10ab8b058964a99f975fe87b124b8186174a3406e0",
+          "size": 2455,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
   }
 }
